@@ -38,7 +38,7 @@ date2 = datetime(2026, 2, 24, 9, 41, 30)
 time = date2 - date1
 
 seconds = time.total_seconds()
-
+minutes = seconds / 60
 print(date1)
 print(date2)
 print(int(seconds))
