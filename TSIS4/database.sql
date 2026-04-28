@@ -1,0 +1,1 @@
+CREATE DATABASE your_new_db ENCODING 'UTF8';

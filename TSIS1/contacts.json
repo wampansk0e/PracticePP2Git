@@ -1,0 +1,74 @@
+[
+    {
+        "id": 2,
+        "name": "Ainov Azamat",
+        "phone": "+77778881122",
+        "email": "a_ainov@kbtu.kz",
+        "group_id": 2,
+        "birthday": "2007-05-20"
+    },
+    {
+        "id": 3,
+        "name": "Uten Adiya",
+        "phone": "+77778888899",
+        "email": "a_uten@kbtu.kz",
+        "group_id": 3,
+        "birthday": "2007-04-22"
+    },
+    {
+        "id": 4,
+        "name": "Askarbekkyzy Akzhainak",
+        "phone": "+77756661312",
+        "email": "a_askarbekkyzy@kbtu.kz",
+        "group_id": 2,
+        "birthday": "2007-02-12"
+    },
+    {
+        "id": 5,
+        "name": "Kantaeva Sabina",
+        "phone": "+77745647898",
+        "email": "s_kantaeva@kbtu.kz",
+        "group_id": 1,
+        "birthday": "2008-06-15"
+    },
+    {
+        "id": 6,
+        "name": "Abdullaeva Sabina",
+        "phone": "+77676767676",
+        "email": "ss_abdullaeva@kbtu.kz",
+        "group_id": 4,
+        "birthday": "2006-12-31"
+    },
+    {
+        "id": 7,
+        "name": "Umbetbaeva Gulnaz",
+        "phone": "+77784568213",
+        "email": "g_umbetbaeva@kbtu.kz",
+        "group_id": 2,
+        "birthday": "2008-09-16"
+    },
+    {
+        "id": 8,
+        "name": "Gomonenko Ekaterina",
+        "phone": "+77475628843",
+        "email": "e_gomonenko@kbtu.kz",
+        "group_id": 1,
+        "birthday": "2008-09-16"
+    },
+    {
+        "id": 9,
+        "name": "Toleubak Rasul",
+        "phone": "+77754896123",
+        "email": "r_toleubak@kbtu.kz",
+        "group_id": 4,
+        "birthday": "2008-10-03"
+    },
+    {
+        "id": 10,
+        "name": "Yessenova Aiym",
+        "phone": "+77754645252",
+        "email": "a_yessenova@kbtu.kz",
+        "group_id": 1,
+        "birthday": "2006-09-27"
+    }
+]
