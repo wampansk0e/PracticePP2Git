@@ -25,6 +25,11 @@
         "distance": 1468
     },
     {
+        "name": "Alimzhan",
+        "score": 2127,
+        "distance": 1327
+    },
+    {
         "name": "qwe",
         "score": 1557,
         "distance": 857
@@ -35,18 +40,13 @@
         "distance": 746
     },
     {
+        "name": "abdfhqwe",
+        "score": 710,
+        "distance": 510
+    },
+    {
         "name": "qweq",
         "score": 485,
         "distance": 285
-    },
-    {
-        "name": "asdqwe",
-        "score": 253,
-        "distance": 153
-    },
-    {
-        "name": "asd",
-        "score": 79,
-        "distance": 79
     }
 ]

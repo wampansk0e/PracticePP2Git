@@ -255,12 +255,11 @@ def import_from_json(conn):
 def run_add_phone(conn):
     name = input("Enter contact name: ")
     new_phone = input("Enter new phone number: ")
-    phone_type = input("Enter phone type (e.g., Work, Home, Mobile): ")
     
     with conn.cursor() as cur:
         try:
             # Calling the procedure using the 'CALL' keyword
-            cur.execute("CALL add_phone(%s, %s, %s);", (name, new_phone, phone_type))
+            cur.execute("CALL add_phone(%s, %s, %s);", (name, new_phone))
             conn.commit()
             print(f"✅ Procedure executed for {name}.")
         except Exception as e:

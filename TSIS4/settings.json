@@ -4,6 +4,6 @@
         255,
         0
     ],
-    "grid_overlay": false,
+    "grid_overlay": true,
     "sound": true
 }
